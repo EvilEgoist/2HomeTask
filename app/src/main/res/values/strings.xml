@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondHomeTask</string>
+    <string name="rus_hint">Русский текст</string>
+    <string name="en_hint">English text</string>
+    <string name="ru_to_en">Ru to En</string>
+    <string name="en_to_ru">En to Ru</string>
+    <string name="en_alphabet">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-</string>
+    <string name="ru_alphabet">абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ-</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_input_layout_width">20dp</dimen>
+    <dimen name="padding_top">15dp</dimen>
+    <dimen name="button_margin_top">35dp</dimen>
+    <dimen name="guide_line_margin">50dp</dimen>
+    <dimen name="text_input_layout_height">20dp</dimen>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="button_width">120dp</dimen>
+    <dimen name="button_height">55dp</dimen>
+</resources>
